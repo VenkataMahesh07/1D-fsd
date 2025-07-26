@@ -4,8 +4,8 @@
   "description": "A simple Node.js HTTP server to parse and display URL components in HTML or JSON format.",
   "main": "urlParse.js",
   "scripts": {
-    "start": "node urlParse.js",
-    "dev": "node urlParse.js"
+    "start": "node urlparse.js",
+    "dev": "node urlparse.js"
   },
   "keywords": [
     "node.js",
